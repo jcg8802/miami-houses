@@ -1,4 +1,69 @@
 {
-  "lastUpdated": null,
-  "listings": {}
+  "lastUpdated": "2026-04-21T13:14:00Z",
+  "listings": {
+    "7": {
+      "id": "7",
+      "address": "Allison Island (guarded enclave)",
+      "neighborhood": "Miami Beach",
+      "lat": 25.8202,
+      "lng": -80.1262,
+      "price_usd": 0,
+      "beds": 7,
+      "baths": 6,
+      "sqft": 5811,
+      "waterfront_type": "bay",
+      "days_on_market": 7,
+      "url": "https://www.havenlifestyles.com/5-exceptional-south-florida-waterfront-homes-from-keys-to-miami-beach-mia-022326",
+      "notes": "Contact for pricing. Guard-gated Allison Island. Renovated contemporary Deco. Pool w/ glass tiles. Listed by Alan Philipson, Compass 305.954.4227",
+      "date_added": "2026-04-21"
+    },
+    "8": {
+      "id": "8",
+      "address": "Waterfront Estate, Coconut Grove",
+      "neighborhood": "Coconut Grove",
+      "lat": 25.7183,
+      "lng": -80.239,
+      "price_usd": 0,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3665,
+      "waterfront_type": "bay",
+      "days_on_market": 4,
+      "url": "https://www.havenlifestyles.com/5-exceptional-south-florida-waterfront-homes-from-keys-to-miami-beach-mia-022326",
+      "notes": "Contact for pricing. Reimagined waterfront. Sub-Zero/Wolf kitchen. 50ft dock, direct bay access. Listed by Scott Shuffield, BHHS EWM 305.726.3133",
+      "date_added": "2026-04-21"
+    },
+    "9": {
+      "id": "9",
+      "address": "Cocoplum — Island of Cocoplum Ph II",
+      "neighborhood": "Coral Gables",
+      "lat": 25.712,
+      "lng": -80.252,
+      "price_usd": 12000000,
+      "beds": 8,
+      "baths": 9,
+      "sqft": 10025,
+      "waterfront_type": "bay",
+      "days_on_market": 14,
+      "url": "https://www.havenlifestyles.com/5-waterfront-estates-from-coral-gables-to-harbour-island-mia-022326",
+      "notes": "$12M. 8BR/8.5BA, 10,025 sf. Guard-gated Cocoplum. 21,000 sf lot. Club, tennis, pickleball. Listed by Lissette Garcia, ONE Sotheby's 305.788.6847",
+      "date_added": "2026-04-21"
+    },
+    "10": {
+      "id": "10",
+      "address": "Point Lot — Intracoastal, North Miami Beach",
+      "neighborhood": "North Miami Beach",
+      "lat": 25.9213,
+      "lng": -80.1317,
+      "price_usd": 0,
+      "beds": 5,
+      "baths": 5,
+      "sqft": 5987,
+      "waterfront_type": "intracoastal",
+      "days_on_market": 7,
+      "url": "https://www.havenlifestyles.com/5-waterfront-luxury-retreats-from-miami-to-the-islands-mia-022326",
+      "notes": "Contact for pricing. Gated point lot. ICW dock. 5,987 sf. Near Aventura. Listed by Shelly Bressler, Douglas Elliman 240.994.8946",
+      "date_added": "2026-04-21"
+    }
+  }
 }
