@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T13:14:00Z",
+  "lastUpdated": "2026-04-22T13:10:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -64,6 +64,54 @@
       "url": "https://www.havenlifestyles.com/5-waterfront-luxury-retreats-from-miami-to-the-islands-mia-022326",
       "notes": "Contact for pricing. Gated point lot. ICW dock. 5,987 sf. Near Aventura. Listed by Shelly Bressler, Douglas Elliman 240.994.8946",
       "date_added": "2026-04-21"
+    },
+    "11": {
+      "id": "11",
+      "address": "Gables by the Sea — Bayfront Estate",
+      "neighborhood": "Coral Gables",
+      "lat": 25.6980,
+      "lng": -80.2630,
+      "price_usd": 0,
+      "beds": 5,
+      "baths": 5,
+      "sqft": 0,
+      "waterfront_type": "bay",
+      "days_on_market": 1,
+      "url": "https://www.havenlifestyles.com/5-ultra-luxury-waterfront-estates-from-florida-to-the-bahamas-mia-022326",
+      "notes": "Contact for pricing. Renovated bayfront estate in guard-gated Gables by the Sea. Over half-acre lot. Landscaping by renowned architect Raymond Jungles. True boating lifestyle. Fresh to market Apr 22.",
+      "date_added": "2026-04-22"
+    },
+    "12": {
+      "id": "12",
+      "address": "Corner-Point Bayfront — 300ft Waterfront, Coral Gables",
+      "neighborhood": "Coral Gables",
+      "lat": 25.7010,
+      "lng": -80.2580,
+      "price_usd": 0,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 0,
+      "waterfront_type": "bay",
+      "days_on_market": 1,
+      "url": "https://www.havenlifestyles.com/5-ultra-luxury-waterfront-estates-from-florida-to-the-bahamas-mia-022326",
+      "notes": "Contact for pricing. Rare corner-point lot with 300ft of prime Biscayne Bay waterfront. 2 private docks: one for 100'+ boat, one with 30,000 lb lift. Pool/spa, outdoor kitchen, fire pit lounge, basketball/volleyball court by the water. Fresh to market Apr 22.",
+      "date_added": "2026-04-22"
+    },
+    "13": {
+      "id": "13",
+      "address": "Waterfront Estate — Coral Gables/Harbour Area",
+      "neighborhood": "Coral Gables",
+      "lat": 25.7050,
+      "lng": -80.2550,
+      "price_usd": 0,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 0,
+      "waterfront_type": "bay",
+      "days_on_market": 3,
+      "url": "https://www.havenlifestyles.com/5-waterfront-estates-from-coral-gables-to-harbour-island-mia-022326",
+      "notes": "Contact for pricing. 5BR: primary suite on main floor + 4 en-suite BRs upstairs. Dual 2-car garages. Miele/Wolf/Sub-Zero kitchen. Lounge, game room, wellness/fitness. Two adjacent waterfront lots totaling 14,000 sqft near Coral Gables dining.",
+      "date_added": "2026-04-22"
     }
   }
 }
