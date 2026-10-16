@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T17:07:36Z",
+  "lastUpdated": "2026-10-16T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -192,6 +192,38 @@
       "url": "https://thecarterrealestate.com/portfolio/key-biscayne-waterfront",
       "notes": "$12.9M. 6BR/7BA, 9,200 SF waterfront coastal villa listed via Carter Real Estate's luxury portfolio. Full street address not published on source page \u2014 contact broker for details.",
       "date_added": "2026-10-15"
+    },
+    "19": {
+      "id": "19",
+      "address": "161 Cape Florida Dr",
+      "neighborhood": "Key Biscayne (Cape Florida Subdivision Sec 3)",
+      "lat": 25.6763,
+      "lng": -80.1592,
+      "price_usd": 14490000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 6661,
+      "waterfront_type": "canal (ocean access, 100ft frontage)",
+      "days_on_market": 45,
+      "url": "https://www.onesothebysrealty.com/property/161-cape-florida-drive-key-biscayne-fl-33149/107807759/",
+      "notes": "MLS #A12051668. Just reduced to $14.49M (previously listed near $14.99M). Fully remodeled, new roof, 100ft water frontage, resort-style pool, summer kitchen, 4 ensuite BR + office/gym convertible to 5th BR. 0.33-acre lot. Listed via ONE Sotheby's International Realty.",
+      "date_added": "2026-10-16"
+    },
+    "20": {
+      "id": "20",
+      "address": "420 Island Dr",
+      "neighborhood": "Key Biscayne (Cape Florida Subdivision Sec 1)",
+      "lat": 25.6847,
+      "lng": -80.1619,
+      "price_usd": 12485000,
+      "beds": 6,
+      "baths": 8,
+      "sqft": 6405,
+      "waterfront_type": "canal (ocean access)",
+      "days_on_market": 475,
+      "url": "https://www.cardosorealty.com/info/property/all/A11812864/",
+      "notes": "MLS #A11812864. $12.485M, 6BR/8BA, 6,405 sf. Active, long-standing listing (475 DOM) \u2014 possible negotiation room given time on market. Waterfront canal lot with Key Biscayne boating access.",
+      "date_added": "2026-10-16"
     }
   }
 }
