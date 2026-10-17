@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T14:00:00Z",
+  "lastUpdated": "2026-10-17T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -224,6 +224,38 @@
       "url": "https://www.cardosorealty.com/info/property/all/A11812864/",
       "notes": "MLS #A11812864. $12.485M, 6BR/8BA, 6,405 sf. Active, long-standing listing (475 DOM) \u2014 possible negotiation room given time on market. Waterfront canal lot with Key Biscayne boating access.",
       "date_added": "2026-10-16"
+    },
+    "21": {
+      "id": "21",
+      "address": "1028 NE 84th St",
+      "neighborhood": "Shorecrest, Miami",
+      "lat": 25.8471,
+      "lng": -80.1875,
+      "price_usd": 3499000,
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2898,
+      "waterfront_type": "canal (no fixed bridges, Biscayne Bay access)",
+      "days_on_market": 43,
+      "url": "https://www.redfin.com/FL/Miami/1028-NE-84th-St-33138/home/43462065",
+      "notes": "MLS #A12082860. $3.499M. Gated Mediterranean resort-style home on oversized 13,248 sf lot with 72ft water frontage, no fixed bridges. 3BR main house + detached 1BR/1BA guest house (4BR total). Pool, boat lift negotiable, previously a successful Airbnb. Listed by Adriana Briceno, Compass Florida.",
+      "date_added": "2026-10-17"
+    },
+    "22": {
+      "id": "22",
+      "address": "6819 Sunrise Pl",
+      "neighborhood": "Sunrise Harbour, Coral Gables",
+      "lat": 25.7212,
+      "lng": -80.2495,
+      "price_usd": 14500000,
+      "beds": 6,
+      "baths": 6,
+      "sqft": 5305,
+      "waterfront_type": "bay (no-bridge access to Biscayne Bay)",
+      "days_on_market": 62,
+      "url": "https://www.zillow.com/homedetails/6819-Sunrise-Pl-Coral-Gables-FL-33133/43918974_zpid/",
+      "notes": "MLS #A12068080. $14.5M (up from $11.9M prior listing). Guard-gated Sunrise Harbour, 100ft waterfrontage, private dock, direct no-bridge access to Biscayne Bay. Extensively renovated contemporary, 25ft ceilings, resort-style pool/spa. Listed by Susana Ojeda, Brokers LLC.",
+      "date_added": "2026-10-17"
     }
   }
 }
