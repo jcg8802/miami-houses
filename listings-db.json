@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T14:00:00Z",
+  "lastUpdated": "2026-10-18T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -256,6 +256,70 @@
       "url": "https://www.zillow.com/homedetails/6819-Sunrise-Pl-Coral-Gables-FL-33133/43918974_zpid/",
       "notes": "MLS #A12068080. $14.5M (up from $11.9M prior listing). Guard-gated Sunrise Harbour, 100ft waterfrontage, private dock, direct no-bridge access to Biscayne Bay. Extensively renovated contemporary, 25ft ceilings, resort-style pool/spa. Listed by Susana Ojeda, Brokers LLC.",
       "date_added": "2026-10-17"
+    },
+    "23": {
+      "id": "23",
+      "address": "527 E Di Lido Dr",
+      "neighborhood": "Di Lido Island, Miami Beach",
+      "lat": 25.7926,
+      "lng": -80.1582,
+      "price_usd": 12900000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3398,
+      "waterfront_type": "bay/ocean access (canal front)",
+      "days_on_market": 946,
+      "url": "https://www.zillow.com/homedetails/527-E-Di-Lido-Dr-Miami-Beach-FL-33139/43895167_zpid/",
+      "notes": "MLS #A11531735. $12.9M (cut from $13.5M original ask). 1932 Italian Villa \"El Escape\" on Venetian Islands, panoramic Biscayne Bay views, 60ft water frontage, guesthouse, pool, 2-car garage. Listed by Nelson Gonzalez, BHHS EWM Realty. Long DOM (946d) \u2014 negotiation room likely.",
+      "date_added": "2026-10-18"
+    },
+    "24": {
+      "id": "24",
+      "address": "1050 Stillwater Dr",
+      "neighborhood": "Stillwater Island, Miami Beach",
+      "lat": 25.869,
+      "lng": -80.1307,
+      "price_usd": 10450000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 4023,
+      "waterfront_type": "bay/intracoastal",
+      "days_on_market": 103,
+      "url": "https://www.zillow.com/homedetails/1050-Stillwater-Dr-Miami-Beach-FL-33141/43877492_zpid/",
+      "notes": "MLS #A12032982. $10.45M. Brand-new construction (2025/2026) on guard-gated Stillwater Island, 50ft open bay frontage, private dock w/ boat + jet ski lifts, saltwater pool, smart home, impact windows. Listed by Melisa Azran Attias, Beachfront Realty.",
+      "date_added": "2026-10-18"
+    },
+    "25": {
+      "id": "25",
+      "address": "1690 Daytonia Rd",
+      "neighborhood": "Biscayne Point / Normandy Shores, Miami Beach",
+      "lat": 25.8632,
+      "lng": -80.1381,
+      "price_usd": 8000000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 4315,
+      "waterfront_type": "bay (direct Biscayne Bay frontage)",
+      "days_on_market": 131,
+      "url": "https://www.redfin.com/FL/Miami-Beach/1690-Daytonia-Rd-33141/home/42767470",
+      "notes": "MLS #A12004638. $8M. Gated Biscayne Point, 12,000 sf lot, 80ft direct bay frontage, ~1,811 sf private dock (one of island's largest), renovated kitchen/baths, resurfaced pool. Near Bal Harbour Shops.",
+      "date_added": "2026-10-18"
+    },
+    "26": {
+      "id": "26",
+      "address": "1520 Lugo Ave",
+      "neighborhood": "Gables by the Sea, Coral Gables",
+      "lat": 25.6524,
+      "lng": -80.2826,
+      "price_usd": 3390000,
+      "beds": 4,
+      "baths": 6,
+      "sqft": 3048,
+      "waterfront_type": "canal (no ocean access \u2014 kayak/paddleboard waterway)",
+      "days_on_market": 0,
+      "url": "https://www.redfin.com/FL/Coral-Gables/1520-Lugo-Ave-33156/home/42821039",
+      "notes": "MLS #A12077026. $3.39M. Gated Gables by the Sea, rebuilt down to studs, every BR en-suite, Thermador kitchen, 12,500 sf lot, private dock, pool. Waterway does NOT provide ocean access. Listed by Haissam Jaber, Compass Florida.",
+      "date_added": "2026-10-18"
     }
   }
 }
