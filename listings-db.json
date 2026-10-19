@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T14:00:00Z",
+  "lastUpdated": "2026-10-19T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -320,6 +320,38 @@
       "url": "https://www.redfin.com/FL/Coral-Gables/1520-Lugo-Ave-33156/home/42821039",
       "notes": "MLS #A12077026. $3.39M. Gated Gables by the Sea, rebuilt down to studs, every BR en-suite, Thermador kitchen, 12,500 sf lot, private dock, pool. Waterway does NOT provide ocean access. Listed by Haissam Jaber, Compass Florida.",
       "date_added": "2026-10-18"
+    },
+    "27": {
+      "id": "27",
+      "address": "1379 NE 104th St",
+      "neighborhood": "Miami Shores",
+      "lat": 25.8653,
+      "lng": -80.1865,
+      "price_usd": 6495000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 4938,
+      "waterfront_type": "canal (ocean access, no fixed bridges)",
+      "days_on_market": 166,
+      "url": "https://miamicityrealty.com/property/1379-ne-104th-st-miami-shores-fl-33138",
+      "notes": "MLS #A11974146. $6.495M (reduced twice: from $7.495M to $6.995M to $6.495M). 2026 new construction in Miami Shores-East, FAO Architecture/Barreto Constructions, 75ft water frontage, under a minute to open bay with no fixed bridges. Heated pool/spa, summer kitchen, rooftop lounge. Partially furnished.",
+      "date_added": "2026-10-19"
+    },
+    "28": {
+      "id": "28",
+      "address": "1370 NE 103rd St",
+      "neighborhood": "Miami Shores",
+      "lat": 25.8645,
+      "lng": -80.1868,
+      "price_usd": 5250000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 4247,
+      "waterfront_type": "canal/bay (100ft frontage)",
+      "days_on_market": 176,
+      "url": "https://www.michellehalfon.com/info/property/all/A11888948/",
+      "notes": "MLS #A11888948. $5.25M. Miami Shores luxury waterfront home, 100ft frontage, Replat Miami Shores Bay subdivision. Built 1957, 4,247 sf. Active.",
+      "date_added": "2026-10-19"
     }
   }
 }
