@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T14:00:00Z",
+  "lastUpdated": "2026-10-20T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -352,6 +352,22 @@
       "url": "https://www.michellehalfon.com/info/property/all/A11888948/",
       "notes": "MLS #A11888948. $5.25M. Miami Shores luxury waterfront home, 100ft frontage, Replat Miami Shores Bay subdivision. Built 1957, 4,247 sf. Active.",
       "date_added": "2026-10-19"
+    },
+    "29": {
+      "id": "29",
+      "address": "1680 S Treasure Dr",
+      "neighborhood": "Treasure Island, North Bay Village",
+      "lat": 25.848,
+      "lng": -80.1535,
+      "price_usd": 6050000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2821,
+      "waterfront_type": "bay (direct Biscayne Bay frontage, no fixed bridges, ocean access)",
+      "days_on_market": 139,
+      "url": "https://www.zillow.com/homedetails/1680-S-Treasure-Dr-North-Bay-Village-FL-33141/44028060_zpid/",
+      "notes": "MLS #A12030806. $6.05M. 9,000 sf lot, 60ft direct Biscayne Bay frontage, no fixed bridges/direct ocean access, skyline + Miami Beach views. Existing 1956 home on lot suitable for remodel or teardown/rebuild. Listed by Alessandra Olivieri, Interealty Exchange Inc. North Bay Village cited as one of Miami's fastest-growing waterfront destinations.",
+      "date_added": "2026-10-20"
     }
   }
 }
