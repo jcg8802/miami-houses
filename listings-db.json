@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T14:00:00Z",
+  "lastUpdated": "2026-10-22T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -416,6 +416,38 @@
       "url": "https://www.zillow.com/homedetails/12904-Banyan-Rd-North-Miami-FL-33181/43977508_zpid/",
       "notes": "MLS #A11722549. $4.999M. Gated Keystone Point corner lot, 15,504 SF, 250ft on the water, two docks (136ft & 114ft) for 100ft+ yachts, deep-water canal with direct ocean access and no fixed bridges. Long DOM (610d) \u2014 negotiation room likely. Listed by Richard Feldman, Miami Waterfront Realty.",
       "date_added": "2026-10-21"
+    },
+    "33": {
+      "id": "33",
+      "address": "1141 N Biscayne Point Rd (\"Glasshouse\")",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8608,
+      "lng": -80.1341,
+      "price_usd": 15900000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 4299,
+      "waterfront_type": "bay (107ft open Biscayne Bay frontage)",
+      "days_on_market": 100,
+      "url": "https://www.elliman.com/listing/1141-n-biscayne-point-rd-miami-beach-fl-33141/32966991",
+      "notes": "MLS #A12052876. $15.9M (slightly above JC's ~$15M target, flagged for quality/scarcity). 4BR/4.5BA, 4,299 SF (BHHS lists 5,310 SF total), 0.23-acre (10,236 SF) lot. Brand-new 2026 construction dubbed 'Glasshouse', designed by Kobi Karp, built by Cetoute Design Group. Gated cul-de-sac in Biscayne Point, 107ft open bay frontage, new seawall + private dock, retractable glass walls, saltwater pool, rooftop terrace with panoramic bay/skyline views. Listed by Dina Goldentayer, Douglas Elliman. Land previously owned by NFL DT Larry Ogunjobi (bought 2024 for $4.55M).",
+      "date_added": "2026-10-22"
+    },
+    "34": {
+      "id": "34",
+      "address": "550 S Shore Dr",
+      "neighborhood": "Normandy Shores, Miami Beach",
+      "lat": 25.8495,
+      "lng": -80.1403,
+      "price_usd": 6295000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 3206,
+      "waterfront_type": "canal (direct ocean access, no fixed bridges)",
+      "days_on_market": 181,
+      "url": "https://www.zillow.com/homedetails/550-S-Shore-Dr-Miami-Beach-FL-33141/43877069_zpid/",
+      "notes": "MLS #A12007341. $6.295M. Completely redesigned modern waterfront home in guard-gated Normandy Shores, Miami Beach. 4BR/4.5BA, ~3,206-3,386 SF under A/C, built 2025. Floor-to-ceiling glass, designer kitchen, pool, tropical landscaping, 70ft boat dock with direct ocean access. Vacant and move-in ready; on market since 4/24/2026.",
+      "date_added": "2026-10-22"
     }
   }
 }
