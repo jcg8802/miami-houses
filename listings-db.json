@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T14:00:00Z",
+  "lastUpdated": "2026-10-23T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -448,6 +448,22 @@
       "url": "https://www.zillow.com/homedetails/550-S-Shore-Dr-Miami-Beach-FL-33141/43877069_zpid/",
       "notes": "MLS #A12007341. $6.295M. Completely redesigned modern waterfront home in guard-gated Normandy Shores, Miami Beach. 4BR/4.5BA, ~3,206-3,386 SF under A/C, built 2025. Floor-to-ceiling glass, designer kitchen, pool, tropical landscaping, 70ft boat dock with direct ocean access. Vacant and move-in ready; on market since 4/24/2026.",
       "date_added": "2026-10-22"
+    },
+    "35": {
+      "id": "35",
+      "address": "775 NE 77th Ter",
+      "neighborhood": "Belle Meade, Miami",
+      "lat": 25.8352,
+      "lng": -80.1894,
+      "price_usd": 8900000,
+      "beds": 6,
+      "baths": 7,
+      "sqft": 6902,
+      "waterfront_type": "canal (dock, Biscayne Bay access)",
+      "days_on_market": 196,
+      "url": "https://www.zillow.com/homedetails/775-NE-77th-Ter-Miami-FL-33138/155752684_zpid/",
+      "notes": "MLS #A11991520. $8.9M. New (2021/2026) waterfront construction, \"Miramar Estate\" in guard-gated Belle Meade, smart home, new 70ft dock, 6BR/6.5BA, 6,902 sf. Listed via Douglas Elliman; also on Echo Fine Properties/Realtor.com. Market on since ~4/10/2026, recently price-cut per Homes.com.",
+      "date_added": "2026-10-23"
     }
   }
 }
