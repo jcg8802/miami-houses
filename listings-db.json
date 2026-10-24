@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T14:00:00Z",
+  "lastUpdated": "2026-10-24T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -464,6 +464,38 @@
       "url": "https://www.zillow.com/homedetails/775-NE-77th-Ter-Miami-FL-33138/155752684_zpid/",
       "notes": "MLS #A11991520. $8.9M. New (2021/2026) waterfront construction, \"Miramar Estate\" in guard-gated Belle Meade, smart home, new 70ft dock, 6BR/6.5BA, 6,902 sf. Listed via Douglas Elliman; also on Echo Fine Properties/Realtor.com. Market on since ~4/10/2026, recently price-cut per Homes.com.",
       "date_added": "2026-10-23"
+    },
+    "36": {
+      "id": "36",
+      "address": "1490 Cleveland Rd",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8625,
+      "lng": -80.1338,
+      "price_usd": 5648000,
+      "beds": 5,
+      "baths": 5,
+      "sqft": 3941,
+      "waterfront_type": "canal (direct ocean access)",
+      "days_on_market": 1,
+      "url": "https://www.zillow.com/homedetails/1490-Cleveland-Rd-Miami-Beach-FL-33141/43876817_zpid/",
+      "notes": "MLS #A12088954. $5.648M. Mediterranean-style in gated Biscayne Point, 5BR/5.5BA, 3,941 sf, built 2002, 9,000 sf lot. Double-height ceilings, impact windows/doors, heated pool, private waterfront with direct water access and boat lift, whole-house generator, 2-car garage. Listed by Sandra Stendel, Douglas Elliman. Fresh to market 10/24.",
+      "date_added": "2026-10-24"
+    },
+    "37": {
+      "id": "37",
+      "address": "4475 North Meridian Ave",
+      "neighborhood": "Mid-Beach, Miami Beach",
+      "lat": 25.8158,
+      "lng": -80.1454,
+      "price_usd": 9400000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3451,
+      "waterfront_type": "canal (Biscayne waterway, ocean access)",
+      "days_on_market": 0,
+      "url": "https://dwell.com/home/miami-beach-waterfront-gem-1920s-charm-reimagined-for-dollar94m-e1e3c658",
+      "notes": "$9.4M. Fully reimagined 1920s two-story waterfront home on the Biscayne waterway, 4BR/4BA, 3,451 sf interior (+928 sf enclosed/outdoor), 9,856 sf lot. Original wood-burning fireplace, restored pine ceilings, marble-island kitchen w/ Thermador, heated lap pool, pergola summer kitchen w/ pizza oven. Listed by Darin Tansey, Douglas Elliman.",
+      "date_added": "2026-10-24"
     }
   }
 }
