@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T14:00:00Z",
+  "lastUpdated": "2026-10-25T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -496,6 +496,38 @@
       "url": "https://dwell.com/home/miami-beach-waterfront-gem-1920s-charm-reimagined-for-dollar94m-e1e3c658",
       "notes": "$9.4M. Fully reimagined 1920s two-story waterfront home on the Biscayne waterway, 4BR/4BA, 3,451 sf interior (+928 sf enclosed/outdoor), 9,856 sf lot. Original wood-burning fireplace, restored pine ceilings, marble-island kitchen w/ Thermador, heated lap pool, pergola summer kitchen w/ pizza oven. Listed by Darin Tansey, Douglas Elliman.",
       "date_added": "2026-10-24"
+    },
+    "38": {
+      "id": "38",
+      "address": "7970 Hawthorne Ave",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8598,
+      "lng": -80.1346,
+      "price_usd": 2620000,
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2496,
+      "waterfront_type": "canal (bay and ocean access, no fixed bridges)",
+      "days_on_market": 0,
+      "url": "https://www.zillow.com/homedetails/7970-Hawthorne-Ave-Miami-Beach-FL-33141/43876948_zpid/",
+      "notes": "MLS #A12071445. $2.62M (recent $10K price cut 10/12). Gated/private courtyard, 60ft waterfront, private dock, sparkling pool, bay and ocean access. 4BR/3BA, 2,496 sf, 9,000 sf lot, built 1945. Entry-level price point for Biscayne Point waterfront.",
+      "date_added": "2026-10-25"
+    },
+    "39": {
+      "id": "39",
+      "address": "7720 Miami View Dr",
+      "neighborhood": "North Bay Island, North Bay Village",
+      "lat": 25.8523,
+      "lng": -80.1548,
+      "price_usd": 11999999,
+      "beds": 5,
+      "baths": 4,
+      "sqft": 3758,
+      "waterfront_type": "bay (open bay, skyline views)",
+      "days_on_market": 120,
+      "url": "https://www.coldwellbanker.com/fl/north-bay-village/7720-miami-view-dr/lid-P00800000HCaf3JRsBtbQ2SpDTrmTjOZvVxt9oiP",
+      "notes": "MLS #A12036221. $11.999M. Luxury waterfront residence on exclusive North Bay Island, expansive balconies with open-bay and skyline water views, floor-to-ceiling windows, built 1981. 5BR/4BA, 3,758 sf. Listed by Melissa Morales Ferrer & Belkis Cruz, Black Key Realty.",
+      "date_added": "2026-10-25"
     }
   }
 }
