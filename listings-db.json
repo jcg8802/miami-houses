@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T14:00:00Z",
+  "lastUpdated": "2026-10-26T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -528,6 +528,70 @@
       "url": "https://www.coldwellbanker.com/fl/north-bay-village/7720-miami-view-dr/lid-P00800000HCaf3JRsBtbQ2SpDTrmTjOZvVxt9oiP",
       "notes": "MLS #A12036221. $11.999M. Luxury waterfront residence on exclusive North Bay Island, expansive balconies with open-bay and skyline water views, floor-to-ceiling windows, built 1981. 5BR/4BA, 3,758 sf. Listed by Melissa Morales Ferrer & Belkis Cruz, Black Key Realty.",
       "date_added": "2026-10-25"
+    },
+    "40": {
+      "id": "40",
+      "address": "8033 Noremac Ave",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.861,
+      "lng": -80.1345,
+      "price_usd": 4150000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2455,
+      "waterfront_type": "canal (bay, no fixed bridges, direct ocean access)",
+      "days_on_market": 0,
+      "url": "https://www.elliman.com/listing/8033-noremac-ave-miami-beach-fl-33141/35366327",
+      "notes": "MLS #A12103978. $4.15M. Fully renovated waterfront residence behind the gates of Biscayne Point, completed 2022, 60ft on the bay with no fixed bridges and direct ocean access, new seawall, expansive dock. 11ft ceilings, Italian kitchen w/ Viking appliances, resort-style pool/spa. Listed via Douglas Elliman exclusive.",
+      "date_added": "2026-10-26"
+    },
+    "41": {
+      "id": "41",
+      "address": "1150 N Biscayne Point Rd",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8612,
+      "lng": -80.1348,
+      "price_usd": 5850000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3450,
+      "waterfront_type": "canal (direct waterfront access)",
+      "days_on_market": 0,
+      "url": "https://www.elliman.com/listing/1150-n-biscayne-point-rd-miami-beach-fl-33141/34139148",
+      "notes": "MLS #A12083481. $5.85M. Gated Biscayne Point, 11,450 sf lot, 4BR/4BA, 3,450 sf, Moroccan/Andalusian design details. Private beach area with direct waterfront access, outdoor kitchen. Listed via Douglas Elliman.",
+      "date_added": "2026-10-26"
+    },
+    "42": {
+      "id": "42",
+      "address": "1777 Daytonia Rd",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8628,
+      "lng": -80.1378,
+      "price_usd": 3700000,
+      "beds": 4,
+      "baths": 3,
+      "sqft": 3238,
+      "waterfront_type": "canal (60ft waterfront, boat lift)",
+      "days_on_market": 0,
+      "url": "https://www.elliman.com/listing/1777-daytonia-rd-miami-beach-fl-33141/33158911",
+      "notes": "MLS #A12057489. $3.7M. Renovated, guard-gated Biscayne Point, 4BR/3BA, 3,238 sf, 9,000 sf lot, 10ft ceilings, skylights, oversized pool, 60ft waterfront, private dock, 7,000lb electric boat lift. Built 1946. Listed via Douglas Elliman.",
+      "date_added": "2026-10-26"
+    },
+    "43": {
+      "id": "43",
+      "address": "740 S Shore Dr",
+      "neighborhood": "Normandy Shores, Miami Beach",
+      "lat": 25.8485,
+      "lng": -80.1405,
+      "price_usd": 3900000,
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2326,
+      "waterfront_type": "canal (gated island, dock + boat/jet ski lift)",
+      "days_on_market": 0,
+      "url": "https://www.elliman.com/listing/740-s-shore-dr-miami-beach-fl-33141/34931944",
+      "notes": "MLS #A12095870. $3.9M. Renovated waterfront residence on exclusive gated Normandy Shores Island, 4BR/3BA, 2,326-2,854 sf, modern open plan. Oversized pool/jacuzzi, new seawall/dock for boat + jet ski. Clubhouse, tennis, private golf club access. Built 1959. Listed via Douglas Elliman.",
+      "date_added": "2026-10-26"
     }
   }
 }
