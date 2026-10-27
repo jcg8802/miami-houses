@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T14:00:00Z",
+  "lastUpdated": "2026-10-27T14:00:00Z",
   "listings": {
     "7": {
       "id": "7",
@@ -592,6 +592,22 @@
       "url": "https://www.elliman.com/listing/740-s-shore-dr-miami-beach-fl-33141/34931944",
       "notes": "MLS #A12095870. $3.9M. Renovated waterfront residence on exclusive gated Normandy Shores Island, 4BR/3BA, 2,326-2,854 sf, modern open plan. Oversized pool/jacuzzi, new seawall/dock for boat + jet ski. Clubhouse, tennis, private golf club access. Built 1959. Listed via Douglas Elliman.",
       "date_added": "2026-10-26"
+    },
+    "44": {
+      "id": "44",
+      "address": "1155 S Biscayne Point Rd",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8605,
+      "lng": -80.1352,
+      "price_usd": 3200000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2842,
+      "waterfront_type": "canal (direct ocean access, no fixed bridges)",
+      "days_on_market": 273,
+      "url": "https://www.elliman.com/listing/1155-s-biscayne-point-rd-miami-beach-fl-33141/27893273",
+      "notes": "MLS #A11949868. $3.2M (repeatedly reduced from $3.7M orig 1/26/26, down 13.5% total, latest cut 10/19). Gated Biscayne Point, 84ft water frontage, direct ocean access, no fixed bridges. 2,842 sf under air / 3,714 sf total incl. guest house (1BR/1BA, kitchen, garage, separate entrance). Pool updated 2025, impact windows/doors, new seawall + dock. Listed by Dina Goldentayer & Linda Petushi, Douglas Elliman. Long DOM (273d) with sustained price cuts -- negotiation room likely.",
+      "date_added": "2026-10-27"
     }
   }
 }
