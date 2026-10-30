@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-29T13:02:09Z",
+  "lastUpdated": "2026-10-30T12:00:00Z",
   "listings": {
+    "47": {
+      "id": "47",
+      "address": "570 S Shore Dr",
+      "neighborhood": "Normandy Shores, Miami Beach",
+      "lat": 25.849,
+      "lng": -80.1404,
+      "price_usd": 9335000,
+      "beds": 6,
+      "baths": 8,
+      "sqft": 5043,
+      "waterfront_type": "canal (65ft frontage, private dock, one fixed bridge to open water)",
+      "days_on_market": 0,
+      "url": "https://rebonus.com/real-estate/a12044624-570-s-shore-drive-miami-beach-fl-33141",
+      "notes": "MLS #A12044624. $9.335M. Completely renovated 2026, guard-gated Normandy Shores golf course community, corner lot, 11,000 sf lot, 6BR/6BA + 2 half baths, every BR en-suite. New chef's kitchen, wine cellar, smart home, heated saltwater pool, 65ft waterfront frontage with private dock, wide canal with one fixed bridge to open water.",
+      "date_added": "2026-10-30"
+    },
+    "48": {
+      "id": "48",
+      "address": "6300 Allison Rd",
+      "neighborhood": "Allison Island (Indian Creek Sub), Miami Beach",
+      "lat": 25.8202,
+      "lng": -80.1262,
+      "price_usd": 8450000,
+      "beds": 5,
+      "baths": 5,
+      "sqft": 4035,
+      "waterfront_type": "bay (75ft frontage, private dock)",
+      "days_on_market": 343,
+      "url": "https://sothebysrealty.co.uk/properties/buy/single-family-attached-for-sale-florida-miamidade-county-miami-beach-F2J34H",
+      "notes": "MLS #A11910338. $8.45M (reduced from $8.75M original ask). Private waterfront estate on guard-gated Allison Island, 5BR/4.5BA, 4,035 sf, built 1948, 16,243 sf lot, 75ft water frontage, private dock overlooking open bay. Separate guest house with kitchen/living room/gym. Long DOM (~343d, listed Nov 2025) -- negotiation room likely. Listed via One Sotheby's International Realty.",
+      "date_added": "2026-10-30"
+    },
     "7": {
       "id": "7",
       "address": "Allison Island (guarded enclave)",
