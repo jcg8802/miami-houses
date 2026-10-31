@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-30T12:00:00Z",
+  "lastUpdated": "2026-10-31T12:00:00Z",
   "listings": {
+    "49": {
+      "id": "49",
+      "address": "3835 Carole Ct",
+      "neighborhood": "Four Way Lodge Estates, Coconut Grove, Miami",
+      "lat": 25.715,
+      "lng": -80.237,
+      "price_usd": 14750000,
+      "beds": 6,
+      "baths": 8,
+      "sqft": 9561,
+      "waterfront_type": "canal/bay (150ft frontage, private dock, bay access)",
+      "days_on_market": 73,
+      "url": "https://www.zillow.com/homedetails/3835-Carole-Ct-Miami-FL-33133/43863821_zpid/",
+      "notes": "MLS #A12072408. $14.75M. Waterfront estate with 150ft of water frontage in exclusive gated Four Way Lodge Estates, Coconut Grove. Built 2010, 6BR/6.5BA (Zillow lists 8 total baths), 9,561 sf under A/C (11,316 sf total), 0.29-acre lot. Soaring ceilings, gourmet kitchen, covered terrace w/ summer kitchen, saltwater infinity pool overlooking private dock with bay access. Elevator, generator, impact windows/doors. Near top private schools.",
+      "date_added": "2026-10-31"
+    },
     "47": {
       "id": "47",
       "address": "570 S Shore Dr",
