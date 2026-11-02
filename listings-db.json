@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-01T12:00:00Z",
+  "lastUpdated": "2026-11-02T12:00:00Z",
   "listings": {
+    "53": {
+      "id": "53",
+      "address": "7509 Buccaneer Ave",
+      "neighborhood": "Treasure Island, North Bay Village",
+      "lat": 25.8482,
+      "lng": -80.1532,
+      "price_usd": 5245000,
+      "beds": 4,
+      "baths": 6,
+      "sqft": 4964,
+      "waterfront_type": "canal (ocean/gulf access)",
+      "days_on_market": 10,
+      "url": "https://www.elliman.com/listing/7509-buccaneer-ave-north-bay-village-fl-33141/33747268",
+      "notes": "MLS #A12073329. $5.245M ($1,057/sf). Brand-new construction (completion mid-to-late Nov 2026) in Treasure Island, North Bay Village. 4BR/5.5BA, 4,964 total sf, 0.16-acre (7,140 sf) lot, 11ft ceilings, 2-car garage, rooftop terrace with Biscayne Bay/skyline views. Waterfront oasis with gulf access canal. Listed Aug 18, 2026.",
+      "date_added": "2026-11-02"
+    },
     "50": {
       "id": "50",
       "address": "4620 Granada Blvd",
