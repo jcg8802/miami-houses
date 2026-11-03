@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-02T12:00:00Z",
+  "lastUpdated": "2026-11-03T12:00:00Z",
   "listings": {
+    "55": {
+      "id": "55",
+      "address": "6860 Sunrise Ct",
+      "neighborhood": "Sunrise Harbour, Coconut Grove/Coral Gables border",
+      "lat": 25.7215,
+      "lng": -80.249,
+      "price_usd": 14900000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 5030,
+      "waterfront_type": "canal (100ft frontage, new dock, guard-gated Sunrise Harbour enclave)",
+      "days_on_market": 0,
+      "url": "https://www.redfin.com/FL/Coral-Gables/Undisclosed-address-33133/home/42811976",
+      "notes": "Coming soon via Compass (agent Renier Casanova). \"Cuatro Vientos,\" magazine-featured tropical modernist design on 0.32-acre (14,000 sf) lot with 100ft of waterfront and new dock, beyond the gates of Sunrise Harbour where Coconut Grove meets Coral Gables. 4BR + office loft, 4 full baths (5.5 total per some sources), built 2026. $2,962/sf.",
+      "date_added": "2026-11-03"
+    },
+    "54": {
+      "id": "54",
+      "address": "455 E Di Lido Dr",
+      "neighborhood": "Di Lido Island (Venetian Islands), Miami Beach",
+      "lat": 25.7906,
+      "lng": -80.1469,
+      "price_usd": 13800000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 3138,
+      "waterfront_type": "bay (60ft frontage, private dock, Biscayne Bay/ocean access)",
+      "days_on_market": 78,
+      "url": "https://www.trulia.com/home/455-e-di-lido-dr-miami-beach-fl-33139-43895163",
+      "notes": "MLS #A12071398. $13.8M (~$4,398/sqft). Totally renovated, fully furnished waterfront beach house on Venetian Islands, 4BR/4.5BA, 3,138 sf, built 1945, 10,500 sf lot. Brand new seawall & Ipe wood dock equipped with 30/50 amp yacht outlets, heated waterfront pool, outdoor kitchen, gated with 2-car garage. Listed via Luxe Living Realty (Dora Puig), listed Aug 17, 2026.",
+      "date_added": "2026-11-03"
+    },
     "53": {
       "id": "53",
       "address": "7509 Buccaneer Ave",
