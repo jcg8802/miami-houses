@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-04T12:00:00Z",
+  "lastUpdated": "2026-11-05T12:00:00Z",
   "listings": {
+    "57": {
+      "id": "57",
+      "address": "745 NE 77th Street",
+      "neighborhood": "Belle Meade, Miami",
+      "lat": 25.8349,
+      "lng": -80.1897,
+      "price_usd": 8250000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 3978,
+      "waterfront_type": "canal (50ft frontage, no fixed bridges, dock, guard-gated Belle Meade enclave)",
+      "days_on_market": 20,
+      "url": "https://www.nvrealtygroup.com/property/a12106155-745-ne-77th-street-miami-fl-33138/brochure",
+      "notes": "MLS #A12106155. $8.25M ($2,074/sf). Two-story Key West-style waterfront residence in guard-gated Belle Meade, 50ft of water frontage, well-equipped dock, no fixed bridges to the bay. 4BR/4.5BA, 3,978 sf, 0.40-acre lot, built 2005. Resort-style pool, gardens, covered pool house. Listed Oct 14, 2026 via BHHS EWM Realty.",
+      "date_added": "2026-11-05"
+    },
+    "56": {
+      "id": "56",
+      "address": "1540 Cleveland Rd",
+      "neighborhood": "Biscayne Point, Miami Beach",
+      "lat": 25.8628,
+      "lng": -80.1335,
+      "price_usd": 4400000,
+      "beds": 5,
+      "baths": 4,
+      "sqft": 2849,
+      "waterfront_type": "canal (gated island, direct canal frontage)",
+      "days_on_market": 238,
+      "url": "https://www.compass.com/homedetails/1540-Cleveland-Rd-Miami-Beach-FL-33141/1C6BNO_pid",
+      "notes": "MLS #A11976677. $4.4M ($1,544/sf), reduced from $4.76M original list ($360K price cut 9/3/2026). Modern one-story waterfront residence on gated Biscayne Point, rebuilt 2014 with updated roof/impact windows/plumbing/electrical/A/C. 5BR/3.5BA, 2,849 sf, 9,000 sf lot, limestone floors, gourmet kitchen, boat hoist/davits included. On market since 3/11/2026.",
+      "date_added": "2026-11-05"
+    },
     "55": {
       "id": "55",
       "address": "6860 Sunrise Ct",
