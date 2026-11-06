@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-05T12:00:00Z",
+  "lastUpdated": "2026-11-06T12:00:00Z",
   "listings": {
+    "59": {
+      "id": "59",
+      "address": "445 Grand Bay Drive, Unit PH-2A",
+      "neighborhood": "Grand Bay Residences, Key Biscayne",
+      "lat": 25.6881,
+      "lng": -80.1591,
+      "price_usd": 12990000,
+      "beds": 4,
+      "baths": 6,
+      "sqft": 7400,
+      "waterfront_type": "ocean/bay (direct oceanfront penthouse, panoramic Atlantic + Biscayne Bay + skyline views)",
+      "days_on_market": 2,
+      "url": "https://www.elizabethcostare.com/key-biscayne-real-estate/",
+      "notes": "MLS #A12113410. Floor-through penthouse at Grand Bay Residences, built 1996, 7,400 sf under A/C. Panoramic views of the Atlantic Ocean, Biscayne Bay, and Miami skyline, two oversized terraces (east + west exposure). Listed Nov 2, 2026, $1,755/sf.",
+      "date_added": "2026-11-06"
+    },
+    "58": {
+      "id": "58",
+      "address": "3520 Rockerman Road",
+      "neighborhood": "Rockerman Heights, Coconut Grove, Miami",
+      "lat": 25.7363,
+      "lng": -80.2273,
+      "price_usd": 5248000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 4546,
+      "waterfront_type": "canal/bay (corner lot, water on both sides, 60-80ft private seawall, direct bay access, no fixed bridges)",
+      "days_on_market": 0,
+      "url": "https://zilbert.com/fl/miami/home/coconut-grove/3520-rockerman-road-A11990605",
+      "notes": "MLS #A12098870 (relisted; prior #A11990605). $5.248M ($1,154/sf), reduced from $5.498M original list. 4BR/4.5BA + den/loft, 4,546 sf, 0.15-acre corner lot in Rockerman Heights, built 1987. Direct bay access, no bridges, saltwater pool, steps from downtown Coconut Grove and Kennedy Park. New-listing refresh dated Oct 1, 2026.",
+      "date_added": "2026-11-06"
+    },
     "57": {
       "id": "57",
       "address": "745 NE 77th Street",
