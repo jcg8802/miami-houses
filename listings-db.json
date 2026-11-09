@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-08T13:00:00Z",
+  "lastUpdated": "2026-11-09T13:00:00Z",
   "listings": {
+    "64": {
+      "id": "64",
+      "address": "13035 Nevada St",
+      "neighborhood": "Gables by the Sea, Coral Gables",
+      "lat": 25.6495,
+      "lng": -80.2770,
+      "price_usd": 6987000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 3381,
+      "waterfront_type": "canal (110ft frontage, no fixed bridges, direct ocean access to Biscayne Bay)",
+      "days_on_market": 1,
+      "url": "https://coldwellbanker.com/fl/coral-gables/13035-nevada-st/lid-P00800000HGcxV5Nchn75hH44wKbRx4uGBYASOUK",
+      "notes": "MLS #A12081519. $6.987M ($2,067/sf). Pristine waterfront home in gated Gables by the Sea, 110ft water frontage with no bridges to Biscayne Bay, 13,200 sf lot. 4BR/4BA, 3,381 sf, built 1968. Glass-enclosed wine cellar (1,000+ bottles), social bar, full summer kitchen, pool overlooking canal, boat davit, whole-house generator. Listed via One Sotheby's International Realty (Dennis Carvajal), fresh to market Sep 1, 2026.",
+      "date_added": "2026-11-09"
+    },
+    "63": {
+      "id": "63",
+      "address": "6832 Sunrise Ct",
+      "neighborhood": "Sunrise Harbour, Coral Gables",
+      "lat": 25.7211,
+      "lng": -80.2493,
+      "price_usd": 11000000,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 6606,
+      "waterfront_type": "canal (guard-gated enclave, private dock)",
+      "days_on_market": 1,
+      "url": "https://www.coldwellbankerluxury.com/properties/KRRVPQ/6832-sunrise-ct",
+      "notes": "MLS #A12055434. $11M (price changed from asking, $1,665/sf). Fully remodeled 6,819 SF (6,606 sf per MLS) waterfront home in highly sought-after guard-gated Sunrise Harbour, Coral Gables. 5BR/6BA, built 1976. Listed via Coldwell Banker Realty.",
+      "date_added": "2026-11-09"
+    },
     "62": {
       "id": "62",
       "address": "268 S Parkway",
