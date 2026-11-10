@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-09T13:00:00Z",
+  "lastUpdated": "2026-11-10T13:00:00Z",
   "listings": {
+    "66": {
+      "id": "66",
+      "address": "1932 NE 118th Rd",
+      "neighborhood": "San Souci Estates, North Miami",
+      "lat": 25.8847,
+      "lng": -80.1733,
+      "price_usd": 5250000,
+      "beds": 5,
+      "baths": 4,
+      "sqft": 3605,
+      "waterfront_type": "canal (121ft+ wide, no fixed bridges, ocean access, 5 houses from open bay)",
+      "days_on_market": 22,
+      "url": "https://www.zilbert.com/fl/north-miami/home/north-miami/1932-ne-118th-road-A12107505",
+      "notes": "MLS #A12107505. $5.25M ($1,456/sf). Two-story modern home in exclusive gated San Souci Estates, on a wide canal just 5 houses from the open bay. 5BR/3BA (4 full baths per some sources), 3,605 sf, built 2013, 0.22-acre lot. Wolf/Sub-Zero chef's kitchen, 24ft vaulted great room ceilings, pool + dock with 75ft of waterfront, no fixed bridges/ocean access. Listed Oct 15, 2026 via Douglas Elliman.",
+      "date_added": "2026-11-10"
+    },
+    "65": {
+      "id": "65",
+      "address": "13305 Biscayne Island Ter",
+      "neighborhood": "Keystone Point (Island 5), North Miami",
+      "lat": 25.9201,
+      "lng": -80.1451,
+      "price_usd": 4199000,
+      "beds": 4,
+      "baths": 3,
+      "sqft": 3195,
+      "waterfront_type": "canal (direct ocean access, no fixed bridges, deeded dock)",
+      "days_on_market": 130,
+      "url": "https://www.redfin.com/FL/North-Miami/13305-Biscayne-Island-Ter-33181/home/42870224",
+      "notes": "MLS #A12032670. $4.199M ($1,314/sf), motivated seller. Renovated canal-front residence on oversized 15,000+/- sf lot in Island 5, Keystone Point -- 'the most desirable island in Keystone Point'. Deeded dock for big yachts plus 24,000lb boat lift, direct ocean access with no fixed bridges, 5 min from Haulover sandbar/inlet. 4BR/3BA, 3,195 sf, built 1971, parking for 10 vehicles, impact windows. Listed by Alan Orozco, Beachfront Realty. Long DOM (130d) -- negotiation room likely given motivated-seller language.",
+      "date_added": "2026-11-10"
+    },
     "64": {
       "id": "64",
       "address": "13035 Nevada St",
