@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-11T09:00:00Z",
+  "lastUpdated": "2026-11-12T09:00:00Z",
   "listings": {
+    "67": {
+      "id": "67",
+      "address": "7520 W Treasure Dr",
+      "neighborhood": "Treasure Island, North Bay Village",
+      "lat": 25.8486,
+      "lng": -80.1538,
+      "price_usd": 13999999,
+      "beds": 6,
+      "baths": 5.5,
+      "sqft": 4703,
+      "waterfront_type": "canal (direct ocean access, private dock)",
+      "days_on_market": 132,
+      "url": "https://www.zilbert.com/fl/north-bay-village/home/north-bay-village/7520-w-treasure-drive-A12047502",
+      "notes": "MLS #A12047502. $13.999M ($2,977/sf). Luxury new-construction (built 2023) waterfront residence in Treasure Island, North Bay Village, on 0.19-acre lot. 6BR/5.5BA, 4,703 sf living area. Direct ocean access canal with private dock, pool, private rooftop for entertaining/sunsets, high-end contemporary finishes. Listed Jul 2, 2026 via Black Key Realty. Previously sold 10/28/25 for $12.5M (asking $13.499M then) \u2014 relisted higher. Long DOM suggests room to negotiate.",
+      "date_added": "2026-11-12"
+    },
     "66": {
       "id": "66",
       "address": "1932 NE 118th Rd",
