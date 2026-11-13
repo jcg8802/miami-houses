@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-12T09:00:00Z",
+  "lastUpdated": "2026-11-13T09:00:00Z",
   "listings": {
+    "68": {
+      "id": "68",
+      "address": "741 Harbor Dr",
+      "neighborhood": "Harbor Drive (Tropical Isle Homes area), Key Biscayne",
+      "lat": 25.6925,
+      "lng": -80.1635,
+      "price_usd": 7175000,
+      "beds": 6,
+      "baths": 7,
+      "sqft": 4043,
+      "waterfront_type": "bay/lagoon (Biscayne Bay waterfront enclave)",
+      "days_on_market": 245,
+      "url": "https://zillow.com/homedetails/741-Harbor-Dr-Key-Biscayne-FL-33149/44033554_zpid",
+      "notes": "MLS #A11976789. $7.175M ($1,775/sf), just price-cut $215K on 11/6. Refined 3-story modern contemporary on oversized corner lot along Key Biscayne's prestigious Harbor Drive, 15 min from Brickell. 6BR/4BA+3 half BA, 5,328 total sf (4,043 sf per Zillow listing card), built 2016, 7,924 sf lot. Marble waterfall island kitchen, Wolf/Sub-Zero appliances, Savant/Lutron smart home, heated saltwater pool, rooftop terrace w/ summer kitchen. Listed by Nathan Zeder & Adriana Hernandez, Coldwell Banker Realty. Long DOM (245d) with recent price reduction -- negotiation room likely.",
+      "date_added": "2026-11-13"
+    },
     "67": {
       "id": "67",
       "address": "7520 W Treasure Dr",
