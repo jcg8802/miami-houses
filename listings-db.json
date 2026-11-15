@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-14T09:00:00Z",
+  "lastUpdated": "2026-11-15T09:00:00Z",
   "listings": {
+    "75": {
+      "id": "75",
+      "address": "119 Paloma Dr",
+      "neighborhood": "Cocoplum Phase 2, Coral Gables",
+      "lat": 25.7115,
+      "lng": -80.2498,
+      "price_usd": 16200000,
+      "beds": 5,
+      "baths": 6.5,
+      "sqft": 5468,
+      "waterfront_type": "canal (90ft frontage, ocean access via one fixed bridge, private dock)",
+      "days_on_market": 2,
+      "url": "https://www.redfin.com/FL/Coral-Gables/119-Paloma-Dr-33143/home/42807205",
+      "notes": "MLS #A12103511. $16.2M ($2,963/sf; slightly above JC's ~$15M target, flagged for quality). 90ft of waterfront in coveted Cocoplum Phase 2, 5BR/6.5BA, 5,468 sf (7,614 sf total), built 2000, 0.34-acre lot. Elegant staircase, soaring ceilings, custom millwork, marble/wood floors. Heated saltwater pool, private dock, ocean access through one fixed bridge. 3-car garage. Listed Sep 2, 2026 via Coldwell Banker Realty (Juliana Savoia).",
+      "date_added": "2026-11-15"
+    },
+    "74": {
+      "id": "74",
+      "address": "6120 Riviera Dr",
+      "neighborhood": "Riviera Section, Coral Gables",
+      "lat": 25.7212,
+      "lng": -80.2838,
+      "price_usd": 10900000,
+      "beds": 5,
+      "baths": 4.5,
+      "sqft": 5000,
+      "waterfront_type": "canal (175ft frontage, Coral Gables Waterway, covered boathouse)",
+      "days_on_market": 1,
+      "url": "https://www.redfin.com/FL/Coral-Gables/6120-Riviera-Dr-33146/home/42811776",
+      "notes": "MLS #A11989160. $10.9M ($2,180/sf). One of only 27 homes along the Coral Gables Waterway with a true covered boathouse. 3BR/3.5BA main residence plus 2BR/1BA guest house with direct boathouse access (5BR/4.5BA total). 5,000 sf living (6,188 sf total), 0.62-acre (27,125 sf) lot with 175ft water frontage, built 1954. Pool, cabana, porte cochere, 2-car garage, gated driveway. Listed via Compass Florida (Liz Hogan). On market since Apr 29, 2026 -- newly flagged to tracker.",
+      "date_added": "2026-11-15"
+    },
     "73": {
       "id": "73",
       "address": "3322 NE 166th St",
