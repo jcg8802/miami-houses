@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T09:00:00Z",
+  "lastUpdated": "2026-11-16T09:00:00Z",
   "listings": {
     "75": {
       "id": "75",
@@ -182,7 +182,7 @@
       "address": "13035 Nevada St",
       "neighborhood": "Gables by the Sea, Coral Gables",
       "lat": 25.6495,
-      "lng": -80.2770,
+      "lng": -80.277,
       "price_usd": 6987000,
       "beds": 4,
       "baths": 4,
@@ -1104,6 +1104,22 @@
       "url": "https://zilbert.com/fl/coral-gables/home/cocoplum/7230-e-lago-drive-A12109503",
       "notes": "MLS #A12109503. $14.95M ($2,812/sf). Completely renovated waterfront residence in guard-gated Cocoplum, 5BR/6BA, 5,317 sf, built 1983, 15,000 sf waterfront lot, private pool. Listed Oct 20, 2026 via Zilbert.",
       "date_added": "2026-10-28"
+    },
+    "76": {
+      "id": "76",
+      "address": "4560 Prairie Ave",
+      "neighborhood": "Nautilus, Miami Beach",
+      "lat": 25.8213,
+      "lng": -80.1396,
+      "price_usd": 7000000,
+      "beds": 5,
+      "baths": 5,
+      "sqft": 4416,
+      "waterfront_type": "canal (ocean access, no reported fixed bridges, 0.28-acre corner lot)",
+      "days_on_market": 77,
+      "url": "https://www.redfin.com/FL/Miami-Beach/4560-Prairie-Ave-33140/home/42782747",
+      "notes": "MLS #A12077802. Listed Aug 31, 2026 at $7.4M, price cut to $7.0M ($1,585/sf). 5BR/5BA single-story, 4,416 sf on 0.28-acre lot, built 1949 (Nautilus Addn). Canal-front with water view, spa, skylights. One of the larger remaining waterfront parcels on Prairie Ave corridor; several neighboring comps (4510, 4600, 4528 Prairie) trade $10-13M, suggesting room for value-add/renovation upside.",
+      "date_added": "2026-11-16"
     }
   }
 }
