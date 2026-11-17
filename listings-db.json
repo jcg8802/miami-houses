@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-16T09:00:00Z",
+  "lastUpdated": "2026-11-17T09:00:00Z",
   "listings": {
+    "77": {
+      "id": "77",
+      "address": "6700 Granada Blvd",
+      "neighborhood": "South Coral Gables (Riviera/Hammock area)",
+      "lat": 25.709158,
+      "lng": -80.2864,
+      "price_usd": 12950000,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 6562,
+      "waterfront_type": "canal (197ft frontage on Mahi Waterway, 60ft dock, grandfathered 40ft boat slip, ocean access via two 18ft-clearance bridges)",
+      "days_on_market": 3,
+      "url": "https://joshsteinrealtor.com/listing/1195225196--6700-granada-boulevard-coral-gables/",
+      "notes": "MLS #A12123974. $12.95M ($1,973/sf). Double corner lot estate on peaceful Mahi Waterway in South Coral Gables. 5BR/6BA, 6,562 sf. Expansive living areas, covered terraces in stone/Brazilian walnut, gourmet kitchen (Wolf/Sub-Zero/True/Miele), two master suites upstairs w/ spacious loft. Listed Nov 14, 2026 via London Foster Realty.",
+      "date_added": "2026-11-17"
+    },
+    "78": {
+      "id": "78",
+      "address": "7155 Los Pinos Blvd",
+      "neighborhood": "Cocoplum Sec 1, Coral Gables",
+      "lat": 25.7095,
+      "lng": -80.251,
+      "price_usd": 11700000,
+      "beds": 7,
+      "baths": 5,
+      "sqft": 4404,
+      "waterfront_type": "canal (118ft frontage, 50ft private dock + 40ft boat lift, ocean access via one fixed bridge ~21ft clearance)",
+      "days_on_market": 6,
+      "url": "https://www.floridaluxrealestate.com/property/7155-los-pinos-blvd-coral-gables-fl-33143-a12122195",
+      "notes": "MLS #A12122195. $11.7M ($2,657/sf). Updated contemporary single-story waterfront residence in Cocoplum, Coral Gables. 7BR/4.5BA (6 bedrooms + service room per listing copy), 4,404-5,080 sf depending on source, built 1975 on 0.41-acre (17,644sf) lot. Modern Italian kitchen, pool, private dock, 40ft boat lift. Listed Nov 11, 2026 via Compass Florida.",
+      "date_added": "2026-11-17"
+    },
     "75": {
       "id": "75",
       "address": "119 Paloma Dr",
