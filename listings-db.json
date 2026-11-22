@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-21T09:00:00Z",
+  "lastUpdated": "2026-11-22T09:00:00Z",
   "listings": {
+    "89": {
+      "id": "89",
+      "address": "1399 NE 104th St",
+      "neighborhood": "River Bay Park Addn, Miami Shores",
+      "lat": 25.8656,
+      "lng": -80.1869,
+      "price_usd": 3599000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2701,
+      "waterfront_type": "canal (75ft dock, deep canal adjacent to Biscayne Bay, no fixed bridges)",
+      "days_on_market": 15,
+      "url": "https://www.century21.com/homes/detail/fl/miami-shores/1399-ne-104th-st/lid-P00800000HJmpzLZsvWiKt0OGobJIxjzfvJ9jfem",
+      "notes": "MLS #B26095200. $3.599M ($1,332/sf per some sources, listing shows $1,030/sf off 3,494 total sf). 2-story 'turnkey elegance' waterfront home, 4BR/3.5BA, 2,701 sf under air, 8,925 sf lot, built 1956. 75ft dock with newly encapsulated pilings on deep canal adjacent to Biscayne Bay, no fixed bridges. Carrara marble flooring, quartzite counters, Sub-Zero/Bosch kitchen, saltwater pool. Listed Nov 1, 2026 via Iridium Real Estate Group. Same corridor as existing tracker entries #27/#28 on NE 103rd/104th St.",
+      "date_added": "2026-11-22"
+    },
     "88": {
       "id": "88",
       "address": "910 & 920 S Shore Dr",
