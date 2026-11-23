@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-22T09:00:00Z",
+  "lastUpdated": "2026-11-23T09:00:00Z",
   "listings": {
+    "91": {
+      "id": "91",
+      "address": "13390 Biscayne Bay Drive",
+      "neighborhood": "Keystone Island No. 5, North Miami",
+      "lat": 25.9199,
+      "lng": -80.1449,
+      "price_usd": 14900000,
+      "beds": 6,
+      "baths": 10,
+      "sqft": 6832,
+      "waterfront_type": "bay (163ft private frontage where canal meets open Biscayne Bay, direct ocean access, no fixed bridges)",
+      "days_on_market": 42,
+      "url": "https://timelmes.com/home-search/listings/1074802633230969355-13390-Biscayne-Bay-Drive",
+      "notes": "MLS #A12105086. $14.9M ($2,181/sf). 6BR/9.5BA, 6,832 sf under air (~8,200 sf total across 3 levels), 0.33-acre lot, built 2023, gated cul-de-sac. 163ft of private waterfront where canal meets open Biscayne Bay, ~2,000sf dock (~6.5ft depth), jet-ski lift, dock power, no fixed bridges. 70ft glass pool, summer kitchen, rooftop outdoor kitchen w/ motorized pergola, whole-home generator. Offered fully furnished (Artefacto collection, ~$350K). Views to Bal Harbour, Sunny Isles, downtown skyline. Listed Oct 12, 2026 via One Sotheby's International Realty.",
+      "date_added": "2026-11-23"
+    },
+    "90": {
+      "id": "90",
+      "address": "1251 Bella Vista Avenue",
+      "neighborhood": "Gables by the Sea, Coral Gables",
+      "lat": 25.6511,
+      "lng": -80.2779,
+      "price_usd": 8200000,
+      "beds": 7,
+      "baths": 8,
+      "sqft": 5091,
+      "waterfront_type": "canal/bay (direct Biscayne Bay and ocean access, no fixed bridges, private 40ft dock)",
+      "days_on_market": 2,
+      "url": "https://joshsteinrealtor.com/listing/1195446574--1251-bella-vista-avenue-coral-gables/",
+      "notes": "MLS #A12127108. $8.2M ($1,611/sf). Completely reconstructed modern waterfront estate in guard-gated Gables by the Sea, 6-7BR/7.5-8BA (listed variably), ~5,091-5,241 sf under air, 0.36-acre elevated corner lot. Direct Biscayne Bay and ocean access, no fixed bridges, private 40ft dock. Beach-entry pool, infinity spa, outdoor kitchen/grill, cabana bath, gym and sauna. Entire 2nd floor is primary retreat w/ office, sitting room, wet bar, 4 walk-in closets. Guarded entry, neighborhood park, near Pinecrest Elementary/Gulliver. Listed Nov 19, 2026 via BHHS EWM Realty.",
+      "date_added": "2026-11-23"
+    },
     "89": {
       "id": "89",
       "address": "1399 NE 104th St",
