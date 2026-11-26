@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T09:00:00Z",
+  "lastUpdated": "2026-11-26T09:00:00Z",
   "listings": {
     "97": {
       "id": "97",
@@ -1456,6 +1456,38 @@
       "url": "https://www.redfin.com/FL/Miami-Beach/4560-Prairie-Ave-33140/home/42782747",
       "notes": "MLS #A12077802. Listed Aug 31, 2026 at $7.4M, price cut to $7.0M ($1,585/sf). 5BR/5BA single-story, 4,416 sf on 0.28-acre lot, built 1949 (Nautilus Addn). Canal-front with water view, spa, skylights. One of the larger remaining waterfront parcels on Prairie Ave corridor; several neighboring comps (4510, 4600, 4528 Prairie) trade $10-13M, suggesting room for value-add/renovation upside.",
       "date_added": "2026-11-16"
+    },
+    "98": {
+      "id": "98",
+      "address": "6844 Sunrise Ct",
+      "neighborhood": "Sunrise Harbour, Coral Gables",
+      "lat": 25.7296,
+      "lng": -80.2534,
+      "price_usd": 16200000,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 5410,
+      "waterfront_type": "canal (100ft frontage, unobstructed bay access, 25-ton boat lift)",
+      "days_on_market": 3,
+      "url": "https://movewithmomentum.com/listings/idx-miami/6844-sunrise-ct-coral-gables",
+      "notes": "MLS #A12128391. $16.2M ($2,994/sf; above JC's ~$15M target by ~8%, flagged for quality -- gated Sunrise Harbour location steps from Coconut Grove). 5BR/5 full+1 half BA (some listings cite 6BR), 5,410 sf interior / 7,625 sf total, chef's kitchen, pool/spa, summer kitchen. 100ft of waterfront with unobstructed bay access and private dock w/ 25-ton boat lift. Listed Nov 2026.",
+      "date_added": "2026-11-26"
+    },
+    "99": {
+      "id": "99",
+      "address": "1130 Lugo Ave",
+      "neighborhood": "Gables by the Sea, Coral Gables",
+      "lat": 25.6889,
+      "lng": -80.2823,
+      "price_usd": 5400000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2968,
+      "waterfront_type": "canal (100ft frontage, no fixed bridges to bay, private dock w/ boat lift)",
+      "days_on_market": 367,
+      "url": "https://www.compass.com/homedetails/1130-Lugo-Ave-Coral-Gables-FL-33156/1DNUJ2_pid/",
+      "notes": "MLS #A11919339. $5.4-5.5M ($1,853/sf). Georgian Contemporary revival, 4BR/3.5BA, 2,968 sf, built 1966, renovated. NO FIXED BRIDGES TO BAY -- 100ft canal frontage, private dock, boatlift. Listed since Nov 25, 2025 (long DOM ~367 days), previously overlooked in prior scans -- genuinely qualifying inventory in gated Gables by the Sea.",
+      "date_added": "2026-11-26"
     }
   }
 }
