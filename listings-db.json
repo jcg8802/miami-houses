@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-26T09:00:00Z",
+  "lastUpdated": "2026-11-27T09:00:00Z",
   "listings": {
+    "101": {
+      "id": "101",
+      "address": "1011 N Venetian Dr",
+      "neighborhood": "Biscayne Island (Venetian Islands), Miami Beach",
+      "lat": 25.7907,
+      "lng": -80.1595,
+      "price_usd": 16500000,
+      "beds": 5,
+      "baths": 7,
+      "sqft": 3671,
+      "waterfront_type": "bay (90ft Biscayne Bay frontage, unobstructed bay and skyline views)",
+      "days_on_market": 10,
+      "url": "https://movewithmomentum.com/listings/idx-miami/1011-n-venetian-dr-miami",
+      "notes": "MLS #A12124562. $16.5M ($4,495/sf; above JC's ~$15M target, flagged for quality/scarcity on Biscayne Island). Pre-construction modern bayfront estate on 13,500sf lot w/ 90ft of prime Biscayne Bay frontage, 5BR/7BA, 3,671sf under-air plan (built area 3,837sf), every bedroom en suite, his-and-hers primary closets/baths, open bay + Miami skyline views. Project in final round of permitting; planned completion ~2029. Listed Nov 17, 2026.",
+      "date_added": "2026-11-27"
+    },
+    "100": {
+      "id": "100",
+      "address": "1025 Belle Meade Island Dr",
+      "neighborhood": "Belle Meade Island, Upper East Side, Miami",
+      "lat": 25.8270,
+      "lng": -80.1830,
+      "price_usd": 7000000,
+      "beds": 5,
+      "baths": 4,
+      "sqft": 4119,
+      "waterfront_type": "bay (75ft frontage, direct no-fixed-bridge access to Biscayne Bay, new dock/seawall)",
+      "days_on_market": 8,
+      "url": "https://www.elliman.com/listing/1025-belle-meade-island-dr-miami-fl-33138/34199335",
+      "notes": "MLS #A12076028. $7.0M ($1,699/sf). Waterfront opportunity on exclusive guard-gated Belle Meade Island -- well-maintained existing 5BR/4BA home (4,119sf, built 1956) ready for immediate occupancy, PLUS fully approved plans/permits (by Blanco Design + Build) for a new ~8,500sf, 6BR/6.5BA residence for a buyer wanting a build-and-exit path. 12,300sf lot, 75ft of waterfront, direct unobstructed no-bridge access to Biscayne Bay, new dock and seawall. Listed Nov 19, 2026.",
+      "date_added": "2026-11-27"
+    },
     "97": {
       "id": "97",
       "address": "100 Cape Florida Dr",
