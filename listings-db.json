@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-27T09:00:00Z",
+  "lastUpdated": "2026-11-28T09:00:00Z",
   "listings": {
+    "103": {
+      "id": "103",
+      "address": "215 Costanera Road",
+      "neighborhood": "Cocoplum Sec 2 Plat C, Coral Gables",
+      "lat": 25.7075,
+      "lng": -80.2755,
+      "price_usd": 9500000,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 3883,
+      "waterfront_type": "canal",
+      "days_on_market": 10,
+      "url": "https://sweengardner.nvrealtygroup.com/property/b26098940-215-costanera-road-coral-gables-fl-33143/",
+      "notes": "MLS #B26098940. $9.5M ($2,447/sf). 4BR/5BA single-story, 3,883sf, built 1987, 0.32-acre lot in guard-gated Cocoplum. Canal waterfront, private pool, circular driveway, 2-car garage. Status changed Coming Soon -> New on 11/18/2026.",
+      "date_added": "2026-11-28"
+    },
+    "102": {
+      "id": "102",
+      "address": "4230 Chase Ave",
+      "neighborhood": "Nautilus, Miami Beach",
+      "lat": 25.823,
+      "lng": -80.1385,
+      "price_usd": 11995000,
+      "beds": 6,
+      "baths": 8,
+      "sqft": 5050,
+      "waterfront_type": "canal (ocean access, waterfront, boat access up to ~50ft)",
+      "days_on_market": 0,
+      "url": "https://www.redfin.com/FL/Miami-Beach/4230-Chase-Ave-33140/home/43888984",
+      "notes": "MLS listing via Compass (early access/coming soon as of 11/28). $11.995M ($2,375/sf). New-construction waterfront residence in Mid-Beach/Nautilus, 6BR/8BA (6 full + 2 half), ~5,050sf on 0.23-acre (10,070sf) lot, completed 2026. Double-height foyer, floating wood-and-glass staircase, chef's kitchen, primary suite w/ spa bath + private terrace. Direct waterfront w/ boat access.",
+      "date_added": "2026-11-28"
+    },
     "101": {
       "id": "101",
       "address": "1011 N Venetian Dr",
